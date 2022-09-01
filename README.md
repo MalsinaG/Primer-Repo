@@ -2,5 +2,5 @@
 ---
 ## Hecho con ***Markdown***
 ```
-Grupo **ERROR 404**
+Grupo *ERROR 404*
 ```
